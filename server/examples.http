@@ -1,0 +1,161 @@
+@local=http://localhost:3900/api
+@workertoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJTYWxlc01hbiIsImlhdCI6MTY5NTg0ODEwOH0.RKDzkp86wX4CWuBsXfxAPpDVfYUUY7m7gE0iuHbsVD8
+@admintoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OThjMzM3MWM1ODE0MzhjMmQzOTQiLCJ3b3JrZXJOdW0iOjk2NCwicGFzc3dvcmQiOiIkMmIkMTIkS1dzNjU3ajNTQzZRNzVnMHUyWWJjZVVWWTF6TnhBMUFUOHhLUjQvUjlKWndxc1BpM1JTYzYiLCJzdGF0dXMiOiJBZG1pbiIsImlhdCI6MTY5NTg0ODY3MH0.lzUJWp3sbVEScvFN8Uh0fiDXD2tp98CTX-_wVUdD0J8
+@ptoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OWNjMTZkYzMyNjA5OWM5ZjE4NzEiLCJ3b3JrZXJOdW0iOjY4MSwicGFzc3dvcmQiOiIkMmIkMTIkLlJyRkdxalF2enJXTkc4UGdEOUFvZWk5S0ZUdUlmdHJoTGZXZDUuN2p1cmNYVUR6cDRWSnUiLCJzdGF0dXMiOiJQZXJzb25uZWxNYW5hZ2VyIiwiaWF0IjoxNjk1ODkxOTI1fQ.zm7ExaAzRuZRnc1um2eH0Q5KZYE0AocId2d8vBn27jA
+###
+GET {{local}}/orders/981141
+Content-Type: application/json
+x-auth-token:{{admintoken}}
+###
+POST {{local}}/customer
+Content-Type: application/json
+x-auth-token:{{workertoken}}
+
+{
+    "israeliId":"911188331",
+    "name":{
+        "first":"dudu",
+        "last":"davis"
+   },
+   "phone":"0543332221" ,
+   "email":"abc@a.com",
+   "address":{
+      "city":"dsfsdfdsf" ,
+      "street":"sdfdsfsdf" ,
+      "houseNumber": "43"
+      }
+}
+###
+POST {{local}}/workers
+Content-Type: application/json
+x-auth-token:{{admintoken}}
+
+{
+    "name":"israel",
+    "phone":"0543331122",
+    "password":"12345678",
+    "status":"Admin"
+}
+###
+POST {{local}}/workers/login
+Content-Type: application/json
+
+{
+    "workerNum":812,
+    "password":"12345678"
+}
+
+###
+PUT {{local}}/api/workers/812
+Content-Type: application/json
+x-auth-token:{{admintoken}}
+
+{
+    "name":"ישראל",
+    "phone":"0546261926",
+    "status":"Admin"
+}
+###
+DELETE {{local}}/workers/653
+x-auth-token:{{ptoken}}
+###
+PATCH {{local}}/customers/038082319
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OWNjMTZkYzMyNjA5OWM5ZjE4NzEiLCJ3b3JrZXJOdW0iOjY4MSwicGFzc3dvcmQiOiIkMmIkMTIkLlJyRkdxalF2enJXTkc4UGdEOUFvZWk5S0ZUdUlmdHJoTGZXZDUuN2p1cmNYVUR6cDRWSnUiLCJzdGF0dXMiOiJQZXJzb25uZWxNYW5hZ2VyIiwiaWF0IjoxNjk1OTA1OTYwfQ.IZnnAiFNjOHN0WDQ00JLemtVk2n2mN2x2Nkw_B0HQRQ
+Content-Type: application/json
+
+{
+    "name":{
+        "first":"mossssshe",
+        "last":"yali"
+   },
+   "phone":"0543332321" ,
+   "email":"abc@a.com",
+   "address":{
+      "city":"jerusalem" ,
+      "street":"hatnufa" ,
+      "houseNumber": "43"
+      }
+}
+###
+POST {{local}}/provider
+Content-Type: application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+
+{ 
+    "providerName":"semline",
+    "agentName":"dudu",
+    "agentPhone":"0532227773"
+   
+}
+###
+PUT {{local}}/provider/9773
+Content-Type: application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+
+{ 
+    "agentName":"meir",
+    "agentPhone":"0532550073" 
+}
+###
+GET {{local}}/providers/Byid/657dcff8227da7a008998bec
+Content-Type:application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+###
+GET {{local}}/prodacts/search/מקרר
+tent-Type:application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+
+###
+POST {{local}}/prodacts
+Content-Type: application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+
+{
+  "barcode": "12345",
+  "prodactDetails": {
+    "name": "מכונת כביסה בוש",
+    "model": "20061",
+    "description": "7 קילו 1000 סלד"
+  },
+  "family": "קטנים",
+  "price": 50,
+  "maxDiscount": 10,
+  "unitsInStock": 100,
+  "image": {
+    "url": "https://example.com/image.jpg",
+    "alt": "Product Image"
+  }
+}
+###
+PATCH {{local}}/prodacts/12345
+Content-Type: application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+
+{
+    "price":150
+}
+###
+
+PUT {{local}}/prodacts/12345
+Content-Type: application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+
+{
+    "units":0
+}
+
+###
+POST {{local}}/orders
+Content-Type: application/json
+x-auth-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTE0OTY5YWE4NDViNTA0NjE5NTIxOTgiLCJ3b3JrZXJOdW0iOjgxMiwicGFzc3dvcmQiOiIkMmIkMTIkMzVuSWdUUnlSazdIQkJKUTJDZmJHdW1xTE5NT2lqRW9ycDhzNW50V1hPSjkxampJWlZ3WDYiLCJzdGF0dXMiOiJQdXJjaGFzaW5nTWFuYWdlciIsImlhdCI6MTY5NjMzMjg0Nn0.9V9zn2nPLTi8BW96nbLOendCfNs1pc1d6WZGJuyfkvE
+
+{
+    "customer":"65149642a845b50461952195",
+    "prodacts":[
+        {
+        "prodact":"651d8b9c5898d571845289c7",
+        "units":2
+        }
+    ],
+    "workerNum":"6514969aa845b50461952198"
+}

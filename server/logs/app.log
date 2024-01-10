@@ -1,0 +1,215 @@
+{"level":"ERROR","time":"2023-12-14T21:54:22.972Z","pid":17444,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-14T21:55:30.545Z","pid":17444,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-14T21:56:36.483Z","pid":17444,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-14T21:57:04.579Z","pid":17444,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-14T21:59:27.878Z","pid":15536,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-14T22:01:29.391Z","pid":15536,"hostname":"LAPTOP-NMVT9HQ2","msg":"Cast to string failed for value \"{ name: 'israel', phone: '0545555555', status: 'PurchasingManager' }\" (type Object) at path \"status\""}
+{"level":"ERROR","time":"2023-12-14T22:02:21.405Z","pid":3672,"hostname":"LAPTOP-NMVT9HQ2","msg":"Cast to string failed for value \"{ name: 'israel', phone: '0545555555', status: 'PurchasingManager' }\" (type Object) at path \"status\""}
+{"level":"ERROR","time":"2023-12-14T22:03:32.897Z","pid":18332,"hostname":"LAPTOP-NMVT9HQ2","msg":"Assignment to constant variable."}
+{"level":"ERROR","time":"2023-12-14T22:04:50.131Z","pid":7596,"hostname":"LAPTOP-NMVT9HQ2","msg":"Assignment to constant variable."}
+{"level":"ERROR","time":"2023-12-14T22:07:38.255Z","pid":7596,"hostname":"LAPTOP-NMVT9HQ2","msg":"Assignment to constant variable."}
+{"level":"ERROR","time":"2023-12-14T22:09:43.221Z","pid":21472,"hostname":"LAPTOP-NMVT9HQ2","msg":"Assignment to constant variable."}
+{"level":"ERROR","time":"2023-12-14T22:10:07.172Z","pid":2912,"hostname":"LAPTOP-NMVT9HQ2","msg":"Assignment to constant variable."}
+{"level":"ERROR","time":"2023-12-14T22:11:32.514Z","pid":2912,"hostname":"LAPTOP-NMVT9HQ2","msg":"Assignment to constant variable."}
+{"level":"ERROR","time":"2023-12-15T15:36:21.426Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T15:36:52.461Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T15:38:32.066Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T15:39:01.707Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T15:39:18.165Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T15:41:07.055Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T15:42:43.844Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T15:49:07.719Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T16:00:11.911Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T16:05:34.392Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T16:05:42.821Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T16:06:03.507Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T16:06:10.287Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T16:07:54.136Z","pid":22760,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T16:08:49.786Z","pid":23616,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T18:45:22.088Z","pid":5348,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T18:45:22.217Z","pid":5348,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T18:53:40.718Z","pid":13744,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T19:44:24.883Z","pid":13744,"hostname":"LAPTOP-NMVT9HQ2","msg":"to user not have a isPersonnelManager permissions"}
+{"level":"ERROR","time":"2023-12-15T19:46:26.087Z","pid":13744,"hostname":"LAPTOP-NMVT9HQ2","msg":"to user not have a isPersonnelManager permissions"}
+{"level":"ERROR","time":"2023-12-15T19:46:59.724Z","pid":13744,"hostname":"LAPTOP-NMVT9HQ2","msg":"to user not have a isPersonnelManager permissions"}
+{"level":"ERROR","time":"2023-12-15T19:48:06.004Z","pid":13744,"hostname":"LAPTOP-NMVT9HQ2","msg":"to user not have a isPersonnelManager permissions"}
+{"level":"ERROR","time":"2023-12-15T19:53:34.615Z","pid":13744,"hostname":"LAPTOP-NMVT9HQ2","msg":"to user not have a isPersonnelManager permissions"}
+{"level":"ERROR","time":"2023-12-15T19:58:13.072Z","pid":2952,"hostname":"LAPTOP-NMVT9HQ2","msg":"the worker number 609 not exist"}
+{"level":"ERROR","time":"2023-12-15T20:07:40.560Z","pid":2952,"hostname":"LAPTOP-NMVT9HQ2","msg":"the worker number 681 not exist"}
+{"level":"ERROR","time":"2023-12-15T20:25:59.072Z","pid":2952,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T20:29:15.496Z","pid":2952,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T20:31:28.248Z","pid":2952,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T20:33:13.061Z","pid":2952,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T21:40:51.585Z","pid":21792,"hostname":"LAPTOP-NMVT9HQ2","msg":"the customer with israel id- 911188331 not exist"}
+{"level":"ERROR","time":"2023-12-15T21:45:04.560Z","pid":21792,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T21:47:22.570Z","pid":21792,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T21:47:30.510Z","pid":21792,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T21:50:01.467Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T21:50:56.709Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T21:51:43.185Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T21:51:49.515Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T21:51:59.926Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-15T21:53:18.202Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T21:58:14.523Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T21:59:08.336Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T21:59:43.442Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T22:01:40.035Z","pid":17524,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T22:02:49.877Z","pid":25264,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"phone\" is required"}
+{"level":"ERROR","time":"2023-12-15T22:04:59.091Z","pid":5536,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"name._id\" is not allowed"}
+{"level":"ERROR","time":"2023-12-16T16:25:32.401Z","pid":15872,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-16T16:26:30.955Z","pid":15872,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-16T16:26:59.676Z","pid":15872,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-17T20:34:23.955Z","pid":13948,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-17T20:35:47.527Z","pid":13948,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-21T15:10:09.573Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:10:42.542Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:13:14.320Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:14:27.936Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:15:23.752Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:18:45.405Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:28:44.115Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:48:34.281Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T15:54:42.035Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T16:02:23.044Z","pid":20884,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T16:03:31.750Z","pid":23856,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerName\" is required"}
+{"level":"ERROR","time":"2023-12-21T16:22:05.472Z","pid":23856,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T16:22:57.120Z","pid":23820,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T16:26:04.557Z","pid":23820,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T16:31:41.612Z","pid":20236,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T16:33:37.273Z","pid":20236,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T16:44:20.215Z","pid":20236,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T16:50:06.269Z","pid":24508,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T16:52:00.865Z","pid":15656,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T17:07:03.658Z","pid":18108,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-21T17:13:05.188Z","pid":2336,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"unitsInStock\" must be a number"}
+{"level":"ERROR","time":"2023-12-22T15:46:26.609Z","pid":24584,"hostname":"LAPTOP-NMVT9HQ2","msg":"E11000 duplicate key error collection: MyStoreDB.prodact index: barcode_1 dup key: { barcode: \"1234\" }"}
+{"level":"ERROR","time":"2023-12-23T12:26:54.178Z","pid":24584,"hostname":"LAPTOP-NMVT9HQ2","msg":"E11000 duplicate key error collection: MyStoreDB.prodact index: barcode_1 dup key: { barcode: \"1234\" }"}
+{"level":"ERROR","time":"2023-12-23T16:05:44.858Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:06:10.630Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:07:11.520Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:07:11.579Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:07:11.658Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:07:13.635Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:08:19.934Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:08:20.051Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:08:20.086Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:08:22.854Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:08:42.381Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:09:00.797Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:09:23.576Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:09:47.710Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:09:47.712Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:09:47.743Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:09:47.745Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:35:07.359Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:35:58.869Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:35:58.871Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:35:58.908Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:35:58.910Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:36:42.544Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:36:42.546Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:36:42.572Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:36:42.573Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:37:52.752Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:37:52.784Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:38:28.690Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:38:28.691Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:38:28.716Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:38:28.718Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:40:54.577Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:40:54.607Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:41:32.597Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:41:32.625Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:42:26.163Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:42:43.270Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:43:19.576Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:43:21.897Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:43:25.787Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:43:32.749Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:43:37.064Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:43:49.377Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:44:17.709Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:44:17.756Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:44:25.446Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:44:25.476Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:45:10.747Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:45:10.750Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:45:10.777Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:45:10.779Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:50:55.643Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:50:55.669Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:51:46.388Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:51:46.390Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:51:46.413Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T16:51:46.415Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T17:02:58.504Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:26:10.648Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:26:10.703Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:26:10.740Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:26:10.781Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:26:10.827Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:26:10.869Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:27:43.187Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:33:04.612Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:33:04.615Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:33:04.639Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:33:04.641Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:34:00.057Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:34:42.567Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:34:57.037Z","pid":8128,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:36:00.505Z","pid":16680,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:36:47.096Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:36:47.100Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:36:47.115Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:36:47.119Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:44:18.720Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:44:18.722Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:44:18.747Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:44:18.749Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:45:04.620Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:45:04.622Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:45:04.646Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:45:04.649Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:46:56.426Z","pid":9788,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:47:57.554Z","pid":24676,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:48:44.508Z","pid":24720,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:50:14.384Z","pid":21588,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T20:51:29.836Z","pid":5556,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:04:51.238Z","pid":2816,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:06:24.963Z","pid":2816,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:06:53.423Z","pid":2816,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:06:59.413Z","pid":2816,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:09:16.421Z","pid":2816,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:09:56.517Z","pid":24304,"hostname":"LAPTOP-NMVT9HQ2","msg":"access denied . No token"}
+{"level":"ERROR","time":"2023-12-23T21:12:14.041Z","pid":17764,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:12:24.628Z","pid":17764,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:13:04.761Z","pid":17764,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:13:07.256Z","pid":17764,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:13:17.404Z","pid":20456,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-23T21:16:15.460Z","pid":4584,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T07:36:40.992Z","pid":9440,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerNum\" is not allowed"}
+{"level":"ERROR","time":"2023-12-24T07:44:46.987Z","pid":9440,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerNum\" is not allowed"}
+{"level":"ERROR","time":"2023-12-24T07:58:19.573Z","pid":9440,"hostname":"LAPTOP-NMVT9HQ2","msg":"Error message\":\"providerNum\" is not allowed"}
+{"level":"ERROR","time":"2023-12-24T08:54:24.854Z","pid":20180,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T08:56:43.481Z","pid":25312,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T08:57:04.118Z","pid":25312,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T08:57:41.271Z","pid":25312,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T08:58:01.494Z","pid":25312,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T08:58:28.010Z","pid":25312,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T08:59:11.409Z","pid":6496,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T08:59:46.035Z","pid":10560,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T09:03:01.995Z","pid":20776,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2023-12-24T09:03:12.469Z","pid":20776,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-01T09:32:53.984Z","pid":28572,"hostname":"LAPTOP-NMVT9HQ2","msg":"access denied . No token"}
+{"level":"ERROR","time":"2024-01-01T09:32:54.192Z","pid":28572,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-01T20:50:05.540Z","pid":28572,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-02T15:43:37.442Z","pid":4712,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-02T16:21:29.930Z","pid":26848,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-02T19:30:35.693Z","pid":17648,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-02T21:05:33.251Z","pid":3992,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-04T09:37:48.386Z","pid":31768,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-04T22:27:01.418Z","pid":31768,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-06T11:32:27.873Z","pid":2836,"hostname":"LAPTOP-NMVT9HQ2","msg":"page not found"}
+{"level":"ERROR","time":"2024-01-06T15:49:46.275Z","pid":19760,"hostname":"LAPTOP-NMVT9HQ2","msg":"the worker num is invalid"}
+{"level":"ERROR","time":"2024-01-06T15:50:10.791Z","pid":19760,"hostname":"LAPTOP-NMVT9HQ2","msg":"the worker num is invalid"}
+{"level":"ERROR","time":"2024-01-06T15:50:28.702Z","pid":19760,"hostname":"LAPTOP-NMVT9HQ2","msg":"\"password\" length must be at least 6 characters long"}

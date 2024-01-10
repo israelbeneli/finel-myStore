@@ -1,0 +1,12 @@
+{
+  "mongoDB": {
+    "MONGO_URI": "mongodb://127.0.0.1/MyStoreDB",
+    "MONGO_URI_SERVER":"mongodb+srv://israelben_eli:wXbSNWyc7i9O3lpo@israeldb.jmxmcos.mongodb.net/myApi?retryWrites=true&w=majority"
+  },
+  "server": {
+    "PORT": 3000
+  },
+  "auth": {
+    "JWT_SECRET": ""
+  }
+}
