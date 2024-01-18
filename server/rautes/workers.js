@@ -7,10 +7,9 @@ const {authMW} = require("../middleware/auth");
 rauter.post("/createadmin",async(req,res)=>{
   const admin = new Worker(req.body);
   admin.password = await bcrypt.hash(admin.password,12);
-  admin.workerNum = Number(await generateWorkerNumber());
+  admin.workerNum = 1;
   await admin.save();
   res.send(admin);
-
 })
 //POST create new Worker
 rauter.post("/",authMW("isPersonnelManagerORisAdmin"),async(req,res)=>{
